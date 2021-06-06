@@ -1,0 +1,1 @@
+enum DataMode { world, indonesia }
